@@ -123,104 +123,12 @@
                                     <span class="fa fa-star"></span>
                                     <span class="fa fa-star"></span>
                                 </p>
-                                <p class="mb-4">Aplikasi bagus. Pesan tiket untuk traveling saya dan keluarga jadi
-                                    gampang. Terima kasih TicBus 🥰
+                                <p class="mb-4">Testimoni Aplikasi. 🤗
                                 </p>
                                 <div class="d-flex align-items-center">
-                                    <div class="user-img" style="background-image: url(images/testimoni_1.jpg)"></div>
+                                    <div class="user-img" style="background-image: url(https://lh3.googleusercontent.com/a/ACg8ocKadMKlwn-YM6uRjF2JPSoqJ7dkT7rjWcomNjQN1aYppA=s288-c-no)"></div>
                                     <div class="pl-3">
-                                        <p class="name">Muhammad Zaidan</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="testimony-wrap py-4">
-                            <div class="text">
-                                <p class="star">
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                </p>
-                                <p class="mb-4">Keren nih aplikasinya untuk orang2 yang to the point kayak saya. Gk
-                                    perlu ribet ngeliatin hal2 gk penting.</p>
-                                <div class="d-flex align-items-center">
-                                    <div class="user-img" style="background-image: url(images/testimoni_2.jpg)"></div>
-                                    <div class="pl-3">
-                                        <p class="name">Rizki Nugraha</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="testimony-wrap py-4">
-                            <div class="text">
-                                <p class="star">
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                </p>
-                                <p class="mb-4">Aplikasinya cepat dan mudah digunakan. Tidak sulit untuk dimengerti.
-                                    Saya rekomendasikan para pencari tiket pesawat untuk menggunakan aplikasi TicBus
-                                    ini.</p>
-                                <div class="d-flex align-items-center">
-                                    <div class="user-img" style="background-image: url(images/testimoni_3.jpg)"></div>
-                                    <div class="pl-3">
-                                        <p class="name">Burhan Sudrajat</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="testimony-wrap py-4">
-                            <div class="text">
-                                <p class="star">
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                </p>
-                                <p class="mb-4">My friend recommended me this app because I was traveling in
-                                    Indonesia. It's a good app indeed. But one thing I have to say about it is the lack
-                                    of language accomodation. I am a foreigner and needing to sometimes look at google
-                                    translate or ask my friend out for help in order to understand what was written is
-                                    quite tedious. But fortunately, the app being linear and easy to use makes learning
-                                    and remembering how to use it very easy. Still, I hope it add the option to choose
-                                    English language in the future. Thank you TicBus 👍
-                                </p>
-                                <div class="d-flex align-items-center">
-                                    <div class="user-img" style="background-image: url(images/testimoni_5.jpg)"></div>
-                                    <div class="pl-3">
-                                        <p class="name">Dusan Bogdanovic</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="testimony-wrap py-4">
-                            <div class="text">
-                                <p class="star">
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                </p>
-                                <p class="mb-4">Aplikasinya bagus banget. Gampang digunakan dan tampilannya simpel.
-                                    Customer servicenya juga bagus.</p>
-                                <div class="d-flex align-items-center">
-                                    <div class="user-img" style="background-image: url(images/testimoni_4.jpg)"></div>
-                                    <div class="pl-3">
-                                        <p class="name">Fitri Masruroh</p>
+                                        <p class="name">Indra Saryoni</p>
                                     </div>
                                 </div>
                             </div>
